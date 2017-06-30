@@ -1,1 +1,2 @@
 # EscapeSequence
+cppのエスケープシーケンス
